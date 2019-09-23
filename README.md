@@ -1,5 +1,4 @@
-# A Cryptocurrency Pawn Bank
-
+# A Cryptocurrency Pawn Bank 🏛
 
 ### Todo:
 #### * A Credit Rating System
