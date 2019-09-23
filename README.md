@@ -1,5 +1,5 @@
-# A Cryptocurrency Pawn Bank 🏛
+# 🏛 A Cryptocurrency Pawn Bank
 
-### Todo:
-#### * A Credit Rating System
-#### * Integration with uPort
+### Future Todo:
+##### * A Credit Rating System (Python)
+##### * Integration with uPort
